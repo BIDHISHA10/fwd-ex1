@@ -1,5 +1,10 @@
 # EX01 Developing a Simple Webserver
 ## Date:
+20/03/2025
+## Name:
+Gogineni Bidhisha
+## Register Number: 
+212223040048
 
 ## AIM:
 To develop a simple webserver to serve html pages and display the list of protocols in TCP/IP Protocol Suite.
