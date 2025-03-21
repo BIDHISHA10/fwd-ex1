@@ -64,6 +64,8 @@ Open a browser and navigate to http://127.0.0.1:8000 (or the assigned port).
 
 ## OUTPUT:
 ![Screenshot 2025-03-20 161214](https://github.com/user-attachments/assets/fdeacb34-f543-4ede-ae80-8f2f7a074bdd)
+![Screenshot 2025-03-20 161129](https://github.com/user-attachments/assets/4936c7c7-2a7e-4df6-b5fd-1fc6ae40e0c6)
+
 
 
 
