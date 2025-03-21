@@ -7,7 +7,7 @@ Gogineni Bidhisha
 212223040048
 
 ## AIM:
-To develop a simple webserver to serve html table and display the list of protocols in TCP/IP Protocol Suite.
+To develop a simple webserver to serve html table and display a table in HTML consists of table cells inside rows and columns.
 
 ## DESIGN STEPS:
 ### Step 1: 
